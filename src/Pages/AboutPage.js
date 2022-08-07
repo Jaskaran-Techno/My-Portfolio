@@ -14,20 +14,19 @@ function AboutPage() {
             <ImageSection />
             <Tittle title={'My Skills'} span={'My Skills'} />
             <div className="skillsContainer">
-                <SkillsSection skill={'Javascript'} progress={'60%'} width={'60%'} />
-                <SkillsSection skill={'Typescript'} progress={'30%'} width={'30%'} />
-                <SkillsSection skill={'React Js'} progress={'70%'} width={'70%'} />
-                <SkillsSection skill={'Node Js'} progress={'80%'} width={'80%'} />
-                <SkillsSection skill={'Python'} progress={'90%'} width={'90%'} />
-                <SkillsSection skill={'Lua'} progress={'40%'} width={'40%'} />
-                <SkillsSection skill={'Java'} progress={'80%'} width={'80%'} />
-                <SkillsSection skill={'Web Design'} progress={'25%'} width={'25%'} />
-                <SkillsSection skill={'UI/Ux Design'} progress={'76%'} width={'76%'} />
+            <SkillsSection skill={'HTML5'} progress={'80%'} width={'90%'} />
+            <SkillsSection skill={'CSS3'} progress={'80%'} width={'90%'} />
+            <SkillsSection skill={'Javascript'} progress={'80%'} width={'80%'} />
+            <SkillsSection skill={'React.Js'} progress={'70%'} width={'70%'} />
+            <SkillsSection skill={'MongoDB'} progress={'60%'} width={'60%'} />
+            <SkillsSection skill={'Express.JS'} progress={'40%'} width={'50%'} />
+            <SkillsSection skill={'Node.Js'} progress={'60%'} width={'80%'} />
+            <SkillsSection skill={'Java'} progress={'70%'} width={'80%'} />
             </div>
 
-            <Tittle title={'Services'} span={'Services'} />
+            <Tittle title={'Interests'} span={'Services'} />
             <div className="servives-container">
-                <ServicesSection image={design} title={'Web design'} 
+                <ServicesSection image={design} title={'Web Deveopment & Design'} 
                 text={'Lorem ipsum dolor sit amet consectetur adipisicing elit.'}
                 />
                 <ServicesSection image={intelligence} title={'Artificial Intelligence'} 
