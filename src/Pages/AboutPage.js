@@ -24,10 +24,10 @@ function AboutPage() {
             <SkillsSection skill={'Java'} progress={'70%'} width={'80%'} />
             </div>
 
-            <Tittle title={'Interests'} span={'Services'} />
+            <Tittle title={'Interests'} span={'Interests'} />
             <div className="servives-container">
                 <ServicesSection image={design} title={'Web Deveopment & Design'} 
-                text={'Lorem ipsum dolor sit amet consectetur adipisicing elit.'}
+                    text={'Lorem ipsum dolor sit amet consectetur adipisicing elit .'}
                 />
                 <ServicesSection image={intelligence} title={'Artificial Intelligence'} 
                 text={'Lorem ipsum dolor sit amet consectetur adipisicing elit.'}

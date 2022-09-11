@@ -12,8 +12,8 @@ function HomePage() {
                     <span> Jaskaran Singh.</span>
                 </h1>
                 <p className="h-sub-text">
-                    A full stack developer having absolute knowledge of HTML, CSS and JavaScript, React.js, MongoDB and Node.js.
-                    I build modern interactive React UI components for better application performance.
+                    A full stack developer, a keen learner & Tech enhthusiast having absolute knowledge about HTML5,
+                    CSS3 & JavaScript, React.JS. I build modern interactive React UI components for better application performance.
                 </p>
                 <div className="icons">
                     <Link to="https://www.facebook.com/profile.php?id=100041770744715" className="icon-holder">

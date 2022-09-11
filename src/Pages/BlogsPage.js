@@ -6,7 +6,7 @@ function BlogsPage() {
     return (
         <div >
             <div className="b-title">
-                <Tittle title={'Recent Blogs'} span={'Recent Blogs'} />
+                <Tittle title={'Projects'} span={'Recent Blogs'} />
             </div>
             <div className="BlogsPage">
                 {

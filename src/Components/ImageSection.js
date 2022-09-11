@@ -27,11 +27,12 @@ function ImageSection() {
                         <p>: 21</p>
                         <p>: Indian</p>
                         <p>: English</p>
-                        <p>: Sanjeevani Estate, Flat No. 124-B, Sikri, Modinagar, Ghaziabad</p>
+                        <p>:  Modinagar, Ghaziabad, Uttar Pradesh</p>
                         <p>: India</p>
                     </div>
                 </div>
-                <button className="btn">Download Cv</button>
+                <button to="https://drive.google.com/file/d/1Qdu1WtYGXfUorDBcEE8zrgfiMkDKcsNE/view?usp=sharing"
+                    className="btn">Download Cv</button>
             </div>
         </div>
     )
