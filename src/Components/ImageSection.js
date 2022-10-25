@@ -10,8 +10,8 @@ function ImageSection() {
             <div className="about-info">
                 <h4>I am<span> Jaskaran Singh</span></h4>
                 <p className="about-text">
-                    I'm a Full Stack Developer, Technology excites me, development explains me, I'm currently looking for
-                    full time job opportunities to serve as a Software Development Engineer or an Intern.
+                    I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, MongoDB, Angular.js, Node.js ,development defines me well, Technology makes me sensical , I'm currently looking for
+                    full time job opportunities to serve as a Software Engineer or an Intern.
                 </p>
                 <div className="about-details">
                     <div className="left-section">

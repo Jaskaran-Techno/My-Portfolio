@@ -9,7 +9,7 @@ const blogs = [
         id: 1,
         image: blog1,
         title: 'Wordcounter using React.JS & JavaScript',
-        link: 'https://www.facebook.com/',
+        link: 'https://github.com/Jaskaran-Techno/Wordcounter',
         date : '04',
         month: 'Aug',
         year: '2022'
@@ -17,8 +17,8 @@ const blogs = [
     {
         id: 2,
         image: blog2,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Spotify clone using HTML5, CSS3 & Javascript',
+        link: 'https://github.com/Jaskaran-Techno/Spotify-Clone',
         date : '09',
         month: 'Dec',
         year: '2019'
@@ -26,8 +26,8 @@ const blogs = [
     {
         id: 3,
         image: blog3,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Netflix clone using React.js',
+        link: 'https://github.com/Jaskaran-Techno/Netflix-clone',
         date : '15',
         month: 'Jun',
         year: '2018'
@@ -35,8 +35,8 @@ const blogs = [
     {
         id: 4,
         image: blog4,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Weather app',
+        link: 'https://github.com/Jaskaran-Techno/Weather-App',
         date : '04',
         month: 'Aug',
         year: '2020'
@@ -44,8 +44,8 @@ const blogs = [
     {
         id: 5,
         image: blog5,
-        title: 'UI/UX Design Starter with Figma',
-        link: 'https://www.facebook.com/',
+        title: 'Todo App using React.js',
+        link: 'https://github.com/Jaskaran-Techno/Todos-List-using-React',
         date : '09',
         month: 'Sep',
         year: '2019'
