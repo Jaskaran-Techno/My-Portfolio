@@ -14,7 +14,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port1,
-        title: 'Autodesk Maya'
+        title: 'AR/VR animation'
     },
     {
         id: 2,
@@ -34,7 +34,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port3,
-        title: 'Autodesk Maya'
+        title: 'Codeitash'
     },
     {
         id: 4,
@@ -44,7 +44,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port4,
-        title: 'Vanilla Javascript Website'
+        title: 'Vanilla Javascript'
     },
     {
         id: 5,
@@ -64,7 +64,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port7,
-        title: 'Vanilla Javascript Website'
+        title: 'Vanilla Javascript & Node.js'
     },
     {
         id: 7,
@@ -74,7 +74,7 @@ const portfolios = [
         icon1: 'G',
         icon2: 'Y',
         image: port4,
-        title: 'Vanilla Javascript Website'
+        title: 'ES6 Javascript '
     }
 ]
 
