@@ -11,7 +11,7 @@ function ImageSection() {
                 <h4>I am<span> Jaskaran Singh</span></h4>
                 <p className="about-text">
                     I'm a Full Stack Developer, expertise with measuring skills JavaScript, React.js, MongoDB, Node.js ,development defines me well, Technology makes me sensical , I'm currently looking for
-                    full time job opportunities to serve as a Software Engineer or an Intern.
+                    full time job opportunities to serve as a Software Engineer.
                 </p>
                 <div className="about-details">
                     <div className="left-section">
@@ -24,7 +24,7 @@ function ImageSection() {
                     </div>
                     <div className="right-section">
                         <p>: Jaskaran Singh</p>
-                        <p>: 22</p>
+                        <p>: 23</p>
                         <p>: Indian</p>
                         <p>: English</p>
                         <p>:  Modinagar, Ghaziabad, Uttar Pradesh</p>

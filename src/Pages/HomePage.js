@@ -12,15 +12,13 @@ function HomePage() {
                     <span> Jaskaran Singh.</span>
                 </h1>
                 <p className="h-sub-text">
-                    A full stack developer, a keen learner & Tech enhthusiast taking MERN stack as my major. Fascinated towards
-                    Penetration Testing & Data Science, I build modern interactive React UI components for better application
-                    performance.
+                I'm a self-taught Full Stack Developer, Fascinated towards Application Development, development defines me well, technology makes me sensical, because of this I am able to leverage both my formal education as well as my experience as a self-taught developer to create the most comprehensive and easy applications for you. I'm currently working for Accenture as a Software Engineer.
                 </p>
                 <div className="icons">
                     <Link to="https://www.facebook.com/profile.php?id=100041770744715" className="icon-holder">
                         <FontAwesomeIcon icon={faFacebook} className="icon fb" />
                     </Link>
-                    <Link to="https://www.instagram.com/jaskarans_.ingh/?hl=en" className="icon-holder">
+                    <Link to="https://www.instagram.com/jaskaran_singhhhhhh/?hl=en" className="icon-holder">
                         <FontAwesomeIcon icon={faInstagram} className="icon in" />
                     </Link>
                     <Link to="https://www.linkedin.com/in/jaskaran-techno/" className="icon-holder">
